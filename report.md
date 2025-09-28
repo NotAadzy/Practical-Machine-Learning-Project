@@ -1,6 +1,6 @@
 ---
 title: "Practical Machine Learning - Final Project"
-author: "Dhanush"
+author: "Aaditya"
 date: "27/09/2024"
 output: 
         html_document:
