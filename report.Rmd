@@ -1,6 +1,6 @@
 ---
 title: "Practical Machine Learning - Final Project"
-author: "Dhanush"
+author: "Aaditya"
 date: "26/09/2024"
 output: 
         html_document:
@@ -170,3 +170,4 @@ plot(mod_trees)
 plot(mod_rf)
 plot(mod_gbm)
 ```
+
